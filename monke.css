@@ -1,0 +1,84 @@
+.first{
+    font-size: 30px;
+    color: blue;
+    
+}
+.firstp{
+    position: relative;
+    right: 20%;
+    color: #B9EDDD;;
+}
+.secondp{
+    position: relative;
+    left: 50%;
+    background-color: #B9EDDD;
+}
+.fourthp{
+    position: relative;
+    left: 5%;
+    background-color: #B9EDDD;
+}
+div{
+    background-color: #B9EDDD;
+}
+button {
+    background-color: blue; /* arka plan rengi */
+  border: none; /* kenarlık yok */
+  color: white; /* yazı rengi */
+  padding: 10px 20px; /* iç boşluk (üst-alt, sağ-sol) */
+  text-align: center; /* yazı hizalaması */
+  text-decoration: none; /* alt çizgi yok */
+  display: inline-block; /* blok dışa aktarılmaz */
+  font-size: 16px; /* yazı boyutu */
+  border-radius: 5px; /* köşeleri yuvarlama */
+  cursor: pointer; /* imleç şekli */
+  transition: background-color 0.3s ease; /* geçiş efekti */
+    position: relative;
+    left: 80%;
+    top: 200px;
+    
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  .list{
+    font-size: 20px;
+  }
+      
+
+  .goback{
+   position: relative;
+   left: -50px;
+   top: 150px;
+  }
+  .eightp{
+    position: relative;
+    left: 15%;
+    top: 50px;
+  }
+  .sixthp{
+    position: relative;
+    left: 100px;
+    top: 50px;
+  }
+  .fifthp{
+    position: relative;
+    top: 50px;
+  }
+  .slek{
+    position: relative;
+    bottom: 200px;
+    
+  }
+  .nx2{
+  position: relative;
+   
+   bottom: 149px;
+   left: 100px;
+  }
+  .goback2{
+    position: relative;
+    bottom: 200px;
+  }
+ 
